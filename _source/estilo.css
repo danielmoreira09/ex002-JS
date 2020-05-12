@@ -1,0 +1,24 @@
+body{
+    font: normal 15pt, Arial;
+    background-color: teal;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section{
+    border-radius: 10px;
+    width: 500px;
+    background-color: white;
+    box-shadow: 3px 3px 10px black;
+    padding: 15px;
+    margin: auto;
+}
+
+footer {
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
